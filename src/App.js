@@ -7,7 +7,6 @@ import Skills from "./components/pages/skills/Skills";
 import Experiences from "./components/pages/experiences/Experiences";
 import Education from "./components/pages/education/Education";
 import Portfolios from "./components/pages/portfolios/Portfolios";
-import "./App.css";
 import Navbar from "./components/navbar/Navbar";
 
 function App() {
